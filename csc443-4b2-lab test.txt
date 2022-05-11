@@ -1,0 +1,8 @@
+echo "# csc443-4b2-lab" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/izzatidham99/csc443-4b2-lab.git
+git push -u origin main
+>hello world my name is izzatidham99< 
